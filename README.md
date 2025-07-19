@@ -1,2 +1,2 @@
 # portfolio-website
-using html,js and css
+using html,css and js
